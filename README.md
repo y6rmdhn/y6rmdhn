@@ -116,7 +116,7 @@ I'm always excited to collaborate on interesting projects or just chat about tec
 
 <div align="center">
 
-  **💼 [LinkedIn](https://www.linkedin.com/in/muhamad-yopan-ramadhan-205902296/)** • **📧 [Email Me](mailto:your-email@example.com)** • **🌐 [Portfolio](https://your-portfolio.com)**
+  **💼 [LinkedIn](https://www.linkedin.com/in/muhamad-yopan-ramadhan-205902296/)** • **📧 [Email Me](mailto:yopanramadhan8@gmail.com)** • **🌐 [Portfolio](https://your-portfolio.com)**
 
   <br>
   

@@ -48,68 +48,6 @@ Passionate **Full Stack Developer** with expertise in building modern web applic
 
 ---
 
-## 📌 Featured Projects
-
-### 🎓 [SIAKAD - Academic Information System](https://github.com/y6rmdhn/Frontend-SIAKAD)
-Modern academic management system built with TypeScript
-- ⚡ Lightning-fast performance
-- 🎨 Intuitive user interface
-- 🔒 Secure and reliable
-
-### 🎉 [Evently - Event Platform](https://github.com/y6rmdhn/fe-evently-platform)
-Comprehensive event management platform
-- 📅 Event creation and management
-- 👥 Attendee registration system
-- 💳 Integrated payment solutions
-
-### 🏘️ [Puspanegara Village Website](https://github.com/y6rmdhn/website-desa-puspanegara)
-Digital transformation for local government
-- 📰 Community news and announcements
-- 📊 Administrative services
-- 🌐 Public information portal
-
-### 🛒 [E-Commerce Platform](https://github.com/y6rmdhn/ecommerse-react-js)
-Full-featured online shopping experience
-- 🛍️ Product catalog and search
-- 🛒 Shopping cart management
-- 💰 Secure checkout process
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=y6rmdhn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=y6rmdhn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=y6rmdhn&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6)
-
-</div>
-
----
-
-## 🌟 GitHub Activity
-
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=y6rmdhn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=3B82F6)
-
-</div>
-
----
-
-## 💡 Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
 ## 🤝 Let's Connect!
 
 I'm always excited to collaborate on interesting projects or just chat about technology. Feel free to reach out!
@@ -126,9 +64,7 @@ I'm always excited to collaborate on interesting projects or just chat about tec
 
 </div>
 
----
-
-<div align="center">
+<!-- <div align="center">
   
   **"Code is like humor. When you have to explain it, it's bad."** – Cory House
   
@@ -136,4 +72,4 @@ I'm always excited to collaborate on interesting projects or just chat about tec
   
   Made with 💙 and ☕ by Muhamad Yopan Ramadhan
   
-</div>
+</div> -->

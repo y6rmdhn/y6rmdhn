@@ -15,12 +15,7 @@
 
 ## 🚀 About Me
 
-Passionate **Full Stack Developer** with expertise in building modern web applications using cutting-edge technologies. I love transforming ideas into reality through clean, efficient, and scalable code.
-
-- 🔭 Currently working on **Event Management Platforms**
-- 🌱 Exploring advanced **TypeScript** patterns and **modern web architectures**
-- 💼 Open to collaborating on innovative projects
-- ⚡ Fun fact: I believe great code is poetry in motion
+I am currently pursuing a Bachelor’s degree in Informatics Engineering, with an expected graduation in 2026. I have a strong interest in Frontend Development and hands-on skills in HTML, CSS, JavaScript, React, Next.js, and Tailwind, along with basic knowledge of backend development using Express.js and MongoDB. I have worked on several projects, including designing the UI/UX for an academic information system (SIAKAD), developing the frontend for an employee information system, and creating a campus environment map using ArcGIS. I am comfortable working in a team and continuously improving my technical skills and experience in the field of programming.
 
 ---
 
